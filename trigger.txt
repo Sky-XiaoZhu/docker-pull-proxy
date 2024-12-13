@@ -1,1 +1,1 @@
-rustdesk/rustdesk-serverL:latest crpi-i4mbquk6bjfifp70.ap-southeast-1.personal.cr.aliyuncs.com/skyxiaozhu/rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest crpi-i4mbquk6bjfifp70.ap-southeast-1.personal.cr.aliyuncs.com/skyxiaozhu/rustdesk/rustdesk-server:latest
