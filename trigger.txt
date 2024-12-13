@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+rustdesk/rustdesk-serverL:latest crpi-i4mbquk6bjfifp70.ap-southeast-1.personal.cr.aliyuncs.com/skyxiaozhu/rustdesk/rustdesk-server:latest
